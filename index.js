@@ -1,2 +1,9 @@
 console.log('Hello');
-console.log('fff');
+
+const userAge = 35;
+
+if (userAge >= 18) {
+	console.log('Ok');
+} else {
+	console.log('Nope');
+}
